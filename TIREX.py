@@ -9,6 +9,7 @@ numbers = '1234567890'
 symbols = '[]{};:/\,._-+=)(*&^%$#@!'
 all = lower+upper+numbers+symbols
 os.system('pip install colorama')
+os.system('clear')
 print(Fore.GREEN+'\t    Password', Fore.WHITE+'List Making VPS', Fore.RED+'Random')
 print(Fore.GREEN+pyfiglet.figlet_format('T I R E X'))
 print(Fore.GREEN+'\t     Irani', Fore.WHITE+' Version', Fore.RED+' 1.0.0' )
